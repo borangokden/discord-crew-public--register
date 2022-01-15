@@ -1,0 +1,33 @@
+  {
+    "OKUMADANGECME" : "Aşağıdaki tamamen boş bırakılan yerlere ID girin OKUDUKTAN SONRA burayı silebilirsiniz + Olarak emojileri ID olarak koymazsanız çalışmaz",
+    "OKUMADANGECME2" : "TOKEN .env kısmında TOKEN yazan yerin karşısına tokeninizi yapıstırınız.",
+    "OKUMADANGECME3" : "BOT BAZEN HATA ÇIKARDIĞI İÇİN HOŞ GELDİN EMOJİLERİ KALDIRILMIŞTIR.",
+
+    "sahip" : "ID'niz",
+    "prefix" : "Prefixiniz",
+    "footer" : "Adınız ❤️ Sunucu İsminiz",
+
+    "tag" : "Tagınız",
+    "etikettag" : "Etiket Tagınız #'siz'",
+    "sembol" : "Kayıt ederken isim ve yaşın arasına koyulacak sembol (yoksa boş bırakın)",
+  
+    "yetkiliRol" : ["YETKİLİ ROLÜ ID", "2. YOKSA BOŞ BIRAK", "3. YOKSA BOŞ BIRAK"],
+    "vipRol" : "VIP ROL ID",
+    "boosterRol" : "BOOSTER ROL ID",
+    "kayıtsızRol" : "KAYITSIZ ROL ID",
+    "erkekRol1" : "ERKEK ROL ID",
+    "erkekRol2" : "YOKSA BOŞ BIRAK",
+    "kadınRol1" : "KADIN ROL ID",
+    "kadınRol2" : "YOKSA BOŞ BIRAK",
+
+    "tagRol" : "TAG ROL ID",
+    "tagLog" : "TAG LOG ID",
+
+    "SunucuID" : "SUNUCU ID",
+    "hosgeldinKanal" : "HOS GELDİN KANAL ID",
+    "sohbetKanal" : "SOHBET KANALI ID", 
+    "botSesKanal" : "BOT SES KANALI ID",
+  
+    "yes" : "ONAY EMOJİSİ",
+    "no" : "RED EMOJİSİ"
+}
