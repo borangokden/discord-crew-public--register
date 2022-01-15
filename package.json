@@ -1,12 +1,13 @@
 {
-  "//1": "BoranGkdn Ekip Register Bot",
-  "name": "hello-express",
-  "version": "0.0.1",
-  "description": "BoranGkdn Ekip Register Bot",
+  "name": "borangkdn-qdb-ekip-register",
+  "version": "1.0.0",
+  "description": "BoranGkdn tarafından kodlanan ekip kayıt botu altyapısı.",
   "main": "borangkdn.js",
   "scripts": {
-    "start": "node borangkdn.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "author": "BoranGkdn",
+  "license": "MIT",
   "dependencies": {
     "express": "^4.17.1",
     "discord.js": "^12.5.3",
@@ -14,17 +15,5 @@
     "moment": "^2.29.1",
     "moment-duration-format": "^2.3.2",
     "quick.db": "^7.1.2"
-  },
-  "engines": {
-    "node": "12.x"
-  },
-  "repository": {
-    "url": "https://glitch.com/edit/#!/hello-express"
-  },
-  "license": "MIT",
-  "keywords": [
-    "node",
-    "glitch",
-    "express"
-  ]
+  }
 }
